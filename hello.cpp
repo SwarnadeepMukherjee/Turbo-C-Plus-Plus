@@ -1,10 +1,8 @@
 #include<iostream>
 #include<conio.h>
-void main()
-{
-    {
-        clrscr();
-        cout<<"hello world";
-    }
-getch();
+#include<math.h>
+int main() {
+    std :: cout<<"hello world";
+    getch();
+    return 0;
 }
